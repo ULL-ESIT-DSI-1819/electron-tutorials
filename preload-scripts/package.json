@@ -2,6 +2,6 @@
   "name": "preloadScripts",
   "main": "index.js",
   "scripts": {
-    "start": "electron index.js"
+    "start": "../node_modules/.bin/electron index.js"
   }
 }
